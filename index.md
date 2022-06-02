@@ -4,6 +4,21 @@ You can use the [editor on GitHub](https://github.com/stevendlewis/stevendlewis/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+##### Table of Contents
+[Headers](#headers)
+[Emphasis](#emphasis)
+[Lists](#lists)
+[Links](#links)
+[Images](#images)
+[Code and Syntax Highlighting](#code)
+[Footnotes](#footnotes)
+[Tables](#tables)
+[Blockquotes](#blockquotes)
+[Inline HTML](#html)
+[Horizontal Rule](#hr)
+[Line Breaks](#lines)
+[YouTube Videos](#videos)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
